@@ -2,7 +2,7 @@
  
 **Note Pad Andriod Application** (Android Studio) 
 
-Simple application to add multiple notes and saved as persistance data via JSON. Date and time of notes created or added will be recorded as well and displayed in order on the Recycler View. 
+Simple application to add multiple notes and saved as persistence data via JSON. Date and time of notes created or added will be recorded as well and displayed in order on the Recycler View. 
 
 **Features:**
 
