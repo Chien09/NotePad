@@ -27,8 +27,8 @@ Mobile Application to add multiple notes and saved as persistence data via JSON.
 -Tap on note to edit or update
 
 <br />
--------------
 
+-------------
 -About Page (Question mark icon)  <br />
 
 ![About](ReadMeImages/About.jpg)
