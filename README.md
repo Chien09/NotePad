@@ -13,17 +13,25 @@ Mobile Application to add multiple notes and saved as persistence data via JSON.
 <br />
 ![Notes](ReadMeImages/Notes.jpg)
 
+-------------
 -Pressing back key instead of save icon will display alert pop up. <br />
 ![Save](ReadMeImages/BackSave.jpg)
 <br />
+
+-------------
 -Long press on note to delete <br />
 ![Delete](ReadMeImages/Delete.jpg)
 <br />
+
+-------------
 -Tap on note to edit or update
 
 <br />
+-------------
 -About Page (Question mark icon)  <br />
+
 ![About](ReadMeImages/About.jpg)
 
 <br />
+-------------
 NOTE: -Remove .gradle and build folder to build if error
