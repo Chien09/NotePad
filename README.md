@@ -28,10 +28,10 @@ Mobile Application to add multiple notes and saved as persistence data via JSON.
 
 <br />
 -------------
+
 -About Page (Question mark icon)  <br />
 
 ![About](ReadMeImages/About.jpg)
 
 <br />
--------------
 NOTE: -Remove .gradle and build folder to build if error
